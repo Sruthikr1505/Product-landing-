@@ -98,7 +98,6 @@ section {
     border-radius: 10px;
 }
 
-/* Contact Form */
 form {
     display: flex;
     flex-direction: column;
